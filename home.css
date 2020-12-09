@@ -1,0 +1,33 @@
+a{
+    color: black;
+}  
+
+body{
+    background-image: url('wallpaperflare.com_wallpaper\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer{
+    margin-top: 15%;
+    width:100%;
+    text-align: center;
+}
+
+.collapse
+{
+    float:right;
+}
+p{
+    padding: 80px;
+    font-size: 25px;
+    
+}
+.ban{
+    margin-top:15%;
+    width:22%;
+    height:50% ;
+    background-color: white;
+    margin-left: 40%;
+    border-radius: 20px;
+}
